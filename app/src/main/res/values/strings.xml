@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pocus Notes</string>
+    <string name="app_header">Pocus Notes</string>
+    <string name="txt_imprtnt_note">Very important note</string>
+    <string name="txt_very_imprtnt_note">My very important note text with very important information</string>
+    <string name="cntnt_dscrptn" />
+</resources>
