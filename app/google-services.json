@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "75506391781",
+    "firebase_url": "https://notuspokus.firebaseio.com",
+    "project_id": "notuspokus",
+    "storage_bucket": "notuspokus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75506391781:android:fee7b90c6a92b29f55920c",
+        "android_client_info": {
+          "package_name": "ru.geekbrains.gb_kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75506391781-9nd90k0l7133s01sasfm330tnhc3qej5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN_yCjwflX-fVa92FzDw5jcvTpervoKko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75506391781-9nd90k0l7133s01sasfm330tnhc3qej5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

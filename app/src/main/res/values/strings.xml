@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pocus Notes</string>
+    <string name="app_header">Pocus Notes</string>
+    <string name="txt_imprtnt_note">Very important note</string>
+    <string name="txt_very_imprtnt_note">My very important note text with very important information</string>
+    <string name="cntnt_dscrptn" />
+    <string name="txt_header">Заголовок</string>
+    <string name="txt_body">Текст заметки</string>
+    <string name="new_note_title">Новая заметка</string>
+    <string name="logout_menu_title">Выход</string>
+    <string name="logout_title">Выход</string>
+    <string name="logout_message">Вы уверены?</string>
+    <string name="logout_ok">Да</string>
+    <string name="logout_cancel">Нет</string>
+    </resources>
